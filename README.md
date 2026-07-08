@@ -60,6 +60,7 @@ Real-time data processing using PySpark Structured Streaming.
 * Checkpointing
 * Fault Tolerance
 * Output Modes
+* ForEachBatch
 * Archiving
 * Watermarking
 
